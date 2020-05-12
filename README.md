@@ -56,7 +56,7 @@ Then, to create a project following this archetype run this command (Setting the
 ```
 mvn archetype:generate 
     -DarchetypeGroupId=ar.com.wolox 
-    -DarchetypeArtifactId=example-archetype
+    -DarchetypeArtifactId=wolox-archetype
     -DarchetypeVersion=1.0
     -DgroupId={YOUR_GROUP_ID}
     -DartifactId={YOUR_PROJECT_ID}
