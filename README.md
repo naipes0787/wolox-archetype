@@ -28,7 +28,7 @@ src
      │        └──com
      │            └──wolox
      │                └──api
-     |                      Application.Java
+     |                      ApplicationTests.Java
      └──resources
             application.properties
 ```
