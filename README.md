@@ -16,7 +16,6 @@ src
 │    │                    └──exceptions
 │    │                    └──models
 │    │                    └──repositories
-│    │                    └──repositories
 │    │                    └──services
 │    │                    └──utils
 |    |                      Application.Java
